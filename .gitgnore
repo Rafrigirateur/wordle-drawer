@@ -1,0 +1,19 @@
+# Dossier des images générées
+/images/
+
+# Environnements virtuels
+venv/
+.env/
+
+# Fichiers Python compilés
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Fichiers de configuration locaux
+*.env
+*.DS_Store
+
+# Fichiers temporaires
+*.log
