@@ -1,5 +1,9 @@
-# Dossier des images générées
-/images/
+# Ignorer tout le contenu du dossier images/
+images/*
+
+# Fichier image conservé
+!images/.gitkeep
+
 
 # Environnements virtuels
 venv/
