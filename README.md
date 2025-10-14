@@ -1,6 +1,3 @@
-*J'ai généré le README par soucis d'urgence mais tout le projet à été codé par un humain (car aucune IA n'est assez débile pour me suivre dans ma démense*
-# 🎮 Wordle Paternes
-
 Ce projet permet de générer des **motifs (paternes)** personnalisés à partir du Wordle du jour, en utilisant une base de mots et des fichiers JSON pour stocker les formes.
 
 Les paternes sont affichés sous forme d’images similaires à une grille Wordle, avec la possibilité de :
