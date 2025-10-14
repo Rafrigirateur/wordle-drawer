@@ -1,3 +1,6 @@
+`J'ai adapté ce bot afin qu'il fonctionne à l'aide d'une commande discord via un bot mais je n'ai pas encore trouvé d'hébergeur pour le faire fonctionner 24h/24.
+Cela arrivera incessament sous peu, merci de votre compréhension.`
+
 Ce projet permet de générer des **motifs (paternes)** personnalisés à partir du Wordle du jour, en utilisant une base de mots et des fichiers JSON pour stocker les formes.
 
 Les paternes sont affichés sous forme d’images similaires à une grille Wordle, avec la possibilité de :
@@ -110,14 +113,7 @@ Chaque paterne est défini dans un fichier `.json`. Exemple avec **coeur.json** 
 
 Quand tu choisis le paterne `coeur`, tu obtiens une image comme :
 
-```
-🟩🟨🟩🟨🟩
-🟨🟩🟨🟩🟨
-🟨🟩🟩🟩🟨
-🟩🟨🟩🟨🟩
-🟩🟩🟨🟩🟩
-🟩🟩🟩🟩🟩
-```
+<img width="339" height="405" alt="heart_wordle_paterne" src="https://github.com/user-attachments/assets/7fa7a538-d1e4-42dd-b3c4-11a6132e5571" /><img width="339" height="405" alt="SPOILER_heart_wordle_paterne" src="https://github.com/user-attachments/assets/3c505393-23a7-4c62-bdcd-b5444091b600" />
 
 *(les couleurs sont affichées dans une image PNG dans `/images/`)*
 
@@ -130,5 +126,3 @@ Quand tu choisis le paterne `coeur`, tu obtiens une image comme :
 * Créer une interface graphique (Tkinter, PyQt, ou autre).
 
 ---
-
-Veux-tu que je te génère aussi directement un fichier `requirements.txt` adapté à ton projet ?
